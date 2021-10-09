@@ -1,8 +1,7 @@
-# Data analysis
+# WEB DEVELOPER
 - Document here the project: EasyTimer_HTML_CSS_JS
-- Description: Project Description
-- Data Source:
-- Type of analysis:
+- Description: Easy Timer for practicing my JS, CCS and HTML skils
+- Data Source: Universidad nacional de colombia
 
 Please document the project the better you can.
 
